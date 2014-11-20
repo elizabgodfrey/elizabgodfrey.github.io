@@ -6,4 +6,9 @@ body {
 	text-align: left;
 	background: img("images/background.jpg");
 	color: white;
+	background-size: cover; 
+	background-position: center;
+}
+input {
+	border: 0;
 }
