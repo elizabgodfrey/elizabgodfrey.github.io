@@ -4,6 +4,6 @@ h1 {
 
 body {
 	text-align: left;
-	background: ("images/background.jpg");
+	background: img("images/background.jpg");
 	color: white;
 }
