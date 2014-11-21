@@ -1,6 +1,4 @@
-h1 {
-	color: black;
-}
+
 
 body {
 	text-align: left;
@@ -8,6 +6,7 @@ body {
 	color: black;
 	background-position: center;
 	background-size: cover;
+	margin: 20;
 }
 input {
 	border: 0;
