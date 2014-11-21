@@ -1,13 +1,9 @@
 
 
 body {
-	text-align: left;
 	background-image: url("../images/background.jpg");
-	color: black;
 	background-position: center;
 	background-size: cover;
-	margin: 20;
-}
-input {
-	border: 0;
+	background-repeat: no-repeat;
+	color: white;
 }
