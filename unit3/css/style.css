@@ -10,5 +10,6 @@ body {
 }
 hr {
 	border-color: #fd6e6e;
-	width: 20px;
+	margin:0;
+	width: 40px;
 }
