@@ -2,6 +2,7 @@
 
 body {
 	background: url("../images/stripes.png") repeat-x, url("../images/background.jpg") no-repeat;
+	background-color: #525a6a;
 	background-size: auto, cover;
 	color: white;
 }
