@@ -5,4 +5,6 @@ body {
 	background-color: #525a6a;
 	background-size: auto, cover;
 	color: white;
+	font-family: helvetica, arial, sans-serif;
+	font-size: 20px;
 }
