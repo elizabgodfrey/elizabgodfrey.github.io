@@ -1,9 +1,7 @@
 
 
 body {
-	background-image: url("../images/background.jpg");
-	background-position: center;
-	background-size: cover;
-	background-repeat: no-repeat;
+	background: url("../images/stripes.png") repeat-x, url("../images/background.jpg") no-repeat;
+	background-size: auto, cover;
 	color: white;
 }
