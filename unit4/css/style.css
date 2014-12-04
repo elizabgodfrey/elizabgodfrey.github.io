@@ -1,6 +1,8 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 
 body {
-	font-family: 'Orienta', helvetica, sans-serif;
+	
 	font-family: 'Junge', serif;
+}
+h2 {font-family: 'Orienta', helvetica, sans-serif;
 }
