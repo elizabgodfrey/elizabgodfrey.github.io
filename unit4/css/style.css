@@ -3,6 +3,7 @@
 body {
 	font-family: 'Junge', serif;
 	color: white;
+	background: url("../images/pub.png");
 }
 h2 {
 	font-family: 'Orienta', helvetica, sans-serif;
