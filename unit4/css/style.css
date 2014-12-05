@@ -3,19 +3,22 @@
 body {
 	background: url("../images/pub.jpg") no-repeat;
 	background-color: #525a6a;
+	background-size:cover;
 	color: white;
 	font-family: 'Junge', serif;
 	font-size: 20px	
 }
-h1 {
+header img {
+	display:block;
 	margin: 50px 0 0 100px;
 }
-h2 {
-	color: white;
+h1 {
+	color: #222;
 	font-family: 'Orienta', helvetica, sans-serif;
-	font-size: 32
+	font-size: 1.62em;
 	margin: 50px 0 0 200px;
 }
-p {
-	margin: 100px 0 0 300px;
+.poem {
+	font-size:1.62em;
+	margin: 100px 0 0 200px;
 }
