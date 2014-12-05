@@ -9,13 +9,14 @@ body {
 	font-size: 20px	
 }
 div {
-	background:rgba(0,0,0,.5);
+	background:rgba(0,0,0,.2);
 	height:100vh;
 	width:100vw;
 }
 header img {
 	display:block;
-	margin: 100px 0 0 100px;
+	margin: 0 0 0 100px;
+	padding-top:150px;
 }
 h1 {
 	color: #222;
@@ -26,4 +27,8 @@ h1 {
 .poem {
 	font-size:1.62em;
 	margin: 100px 0 0 200px;
+}
+span {
+	font-size:1.62em;
+	font-weight:bold;
 }
