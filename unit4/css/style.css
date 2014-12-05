@@ -10,13 +10,13 @@ body {
 }
 header img {
 	display:block;
-	margin: 50px 0 0 100px;
+	margin: 100px 0 0 100px;
 }
 h1 {
 	color: #222;
 	font-family: 'Orienta', helvetica, sans-serif;
 	font-size: 1.62em;
-	margin: 50px 0 0 200px;
+	margin: 100px 0 0 100px;
 }
 .poem {
 	font-size:1.62em;
