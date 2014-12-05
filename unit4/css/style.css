@@ -1,14 +1,17 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 
 body {
-	font-family: 'Junge', serif;
-	color: white;
 	background: url("../images/pub.jpg") no-repeat;
 	background-color: #525a6a;
+	color: white;
+	font-family: 'Junge', serif;	
+}
+h1 {
+	margin: 100px 0 0 200px;
 }
 h2 {
-	font-family: 'Orienta', helvetica, sans-serif;
 	color: white;
+	font-family: 'Orienta', helvetica, sans-serif;
 	margin: 100px 0 0 200px;
 }
 p {
