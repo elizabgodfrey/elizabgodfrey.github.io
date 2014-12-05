@@ -4,7 +4,8 @@ body {
 	background: url("../images/pub.jpg") no-repeat;
 	background-color: #525a6a;
 	color: white;
-	font-family: 'Junge', serif;	
+	font-family: 'Junge', serif;
+	font-size: 20px	
 }
 h1 {
 	margin: 50px 0 0 100px;
@@ -12,6 +13,7 @@ h1 {
 h2 {
 	color: white;
 	font-family: 'Orienta', helvetica, sans-serif;
+	font-size: 32
 	margin: 50px 0 0 100px;
 }
 p {
