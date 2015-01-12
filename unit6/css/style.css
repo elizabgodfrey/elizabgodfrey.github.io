@@ -10,3 +10,9 @@ h2 {
 	font-family: 'Kreon', serif;
 	font-size: 1.5em;
 }
+nav {
+	color: black;
+	font-size: 1.5em;
+	float: right;
+	margin: 30px;
+}
