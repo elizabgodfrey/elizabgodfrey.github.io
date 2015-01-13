@@ -26,7 +26,9 @@ nav a {
 	display: inline-block;
 	margin: 30px;
 }
-
+a:hover {
+	background-color: #aaaaaa;
+}
 section {
 	float: right;
 	display: inline-block;
