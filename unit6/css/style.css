@@ -11,7 +11,7 @@ h2 {
 	font-size: 1.5em;
 }
 img {
-	border-width: 40px;
+	width: 40px;
 }
 
 nav {
@@ -29,8 +29,12 @@ nav a {
 a:hover {
 	background-color: #aaaaaa;
 }
+
 section {
-	float: right;
-	display: inline-block;
 	margin: 20px;
+}
+
+section img {
+	width: 33.33%;
+	float: left;
 }
