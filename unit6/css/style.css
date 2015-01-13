@@ -25,5 +25,6 @@ nav a {
 
 section {
 	float: right;
+	display: inline-block;
 	margin: 20px;
 }
