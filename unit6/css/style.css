@@ -10,9 +10,6 @@ h2 {
 	font-family: 'Kreon', serif;
 	font-size: 1.5em;
 }
-img {
-	width: 40px;
-}
 
 nav {
 	font-family: 'Kreon', serif;
@@ -34,7 +31,13 @@ section {
 	margin: 20px;
 }
 
-section img {
+figure {
 	width: 33.33%;
 	float: left;
+}
+figure img {
+	width:100%;
+}
+figure h2 {
+	text-align: center;
 }
