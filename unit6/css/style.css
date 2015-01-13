@@ -11,10 +11,11 @@ h2 {
 	font-size: 1.5em;
 }
 nav {
-	text-decoration: none;
-	color: black;
 	font-size: 1.5em;
 	float: right;
-	margin: 40px;
-	margin-top: 40px;
+}
+nav a {
+	text-decoration: none;
+	color: black;
+	display: inline-block;
 }
