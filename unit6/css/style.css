@@ -10,6 +10,10 @@ h2 {
 	font-family: 'Kreon', serif;
 	font-size: 1.5em;
 }
+img {
+	border-width: 40px;
+}
+
 nav {
 	font-family: 'Kreon', serif;
 	font-size: 1.5em;
