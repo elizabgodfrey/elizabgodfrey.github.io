@@ -11,6 +11,7 @@ h2 {
 	font-size: 1.5em;
 }
 nav {
+	font-family: 'Kreon', serif;
 	font-size: 1.5em;
 	float: right;
 }
@@ -18,4 +19,5 @@ nav a {
 	text-decoration: none;
 	color: black;
 	display: inline-block;
+	margin: 30px;
 }
