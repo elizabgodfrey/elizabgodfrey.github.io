@@ -42,6 +42,11 @@ a:hover {
 	background-color: #aaaaaa;
 }
 
+p {
+	text-decoration: none;
+	color: black
+}
+
 section {
 	margin: 20px;
 }
