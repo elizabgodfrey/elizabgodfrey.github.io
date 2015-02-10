@@ -61,6 +61,22 @@ section a {
 	color: black
 }
 
+#intro {
+	content: "."; 
+   	visibility: hidden; 
+   	display: block; 
+   	height: 0; 
+   	clear: both;
+}
+
+#about {
+	content: "."; 
+   	visibility: hidden; 
+   	display: block; 
+   	height: 0; 
+   	clear: both;
+}
+
 figure {
 	width: 33.33%;
 	float: left;
