@@ -29,8 +29,8 @@ hr {
 	border-color: #fd6e6e;
 	clear: both;
 	margin-left: 33.33%;
-	margin-top: 1em;
-	margin-bottom: 1em;
+	margin-top: 3em;
+	margin-bottom: 3em;
 	width: 33.33%;
 }
 
@@ -71,6 +71,9 @@ figure h2 {
 	text-align: center;
 	text-decoration: none;
 	color: black
+}
+header img {
+	width: 2em;
 }
 
 #about a {
