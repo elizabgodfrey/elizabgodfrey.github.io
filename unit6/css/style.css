@@ -26,6 +26,12 @@ h2 {
 	color: black
 }
 
+hr {
+	border-color: #fd6e6e;
+	margin-left: 33.33%;
+	width: 33.33%;
+}
+
 nav {
 	font-family: 'Kreon', serif;
 	font-size: 1em;
@@ -49,6 +55,8 @@ p {
 
 section {
 	margin: 20px;
+	text-decoration: none;
+	color: black
 }
 
 figure {
@@ -61,4 +69,6 @@ figure img {
 }
 figure h2 {
 	text-align: center;
+	text-decoration: none;
+	color: black
 }
