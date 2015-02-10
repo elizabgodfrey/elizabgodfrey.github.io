@@ -29,8 +29,9 @@ hr {
 	border-color: #fd6e6e;
 	clear: both;
 	margin-left: 33.33%;
+	margin-top: 1em;
+	margin-bottom: 1em;
 	width: 33.33%;
-
 }
 
 nav {
@@ -47,11 +48,6 @@ nav a {
 }
 a:hover {
 	background-color: #aaaaaa;
-}
-
-p {
-	text-decoration: none;
-	color: black
 }
 
 section {
@@ -75,4 +71,9 @@ figure h2 {
 	text-align: center;
 	text-decoration: none;
 	color: black
+}
+
+#about {
+	text-decoration: none;
+	color: black;
 }
