@@ -58,11 +58,6 @@ section {
 	color: black
 }
 
-section a {
-	text-decoration: none;
-	color: black
-}
-
 figure {
 	width: 33.33%;
 	float: left;
