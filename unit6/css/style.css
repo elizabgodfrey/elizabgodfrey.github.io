@@ -27,8 +27,10 @@ h2 {
 
 hr {
 	border-color: #fd6e6e;
+	clear: both;
 	margin-left: 33.33%;
 	width: 33.33%;
+
 }
 
 nav {
