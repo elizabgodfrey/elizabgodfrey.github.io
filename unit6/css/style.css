@@ -87,11 +87,23 @@ li {
 	width: 25%;
 }
 
+#about {
+	margin-left: 2em;
+	margin-right: 2em;
+}
+
 #about a {
 	text-decoration: none;
 	text-align: center;
 	color: black;
+}
+
+#about p {
 	float: right;
+}
+
+#about img {
+	width: 10em;
 }
 
 @media (max-width: 400px) {
