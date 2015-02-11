@@ -25,6 +25,10 @@ h2 {
 	font-size: 1.5em;
 }
 
+header img {
+	width: 11em;
+}
+
 hr {
 	border-color: #fd6e6e;
 	clear: both;
@@ -72,8 +76,12 @@ figure h2 {
 	text-decoration: none;
 	color: black
 }
-header img {
-	width: 11em;
+
+ul
+{
+    list-style-type: none;
+    float: right;
+    
 }
 
 #about a {
