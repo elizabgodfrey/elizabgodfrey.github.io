@@ -42,20 +42,20 @@ nav {
 	font-family: 'Kreon', serif;
 	font-size: 1em;
 	float: right;
-	margin-top: 50px;
+	margin-top: 2.5em;
 }
 nav a {
 	text-decoration: none;
 	color: black;
 	display: inline-block;
-	margin: 30px;
+	margin: 1.5em;
 }
 a:hover {
 	background-color: #aaaaaa;
 }
 
 section {
-	margin: 20px;
+	margin: 1em;
 }
 
 section a {
@@ -91,3 +91,18 @@ li {
 	text-decoration: none;
 	color: black;
 }
+
+#about p {
+	float: right;
+}
+
+@media (max-width: 400px) {
+	nav {
+		width: 100%;
+	}
+	figure {
+		width: 100%;
+	}
+}
+
+
