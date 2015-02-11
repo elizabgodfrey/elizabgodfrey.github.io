@@ -80,11 +80,11 @@ figure h2 {
 ul {
     list-style-type: none;
     float: right;
+    width: 25%;
 }
 
 li {
 	display: inline-block;
-	margin-right: 15%;
 }
 
 #about a {
