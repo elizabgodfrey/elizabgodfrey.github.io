@@ -77,11 +77,14 @@ figure h2 {
 	color: black
 }
 
-ul
-{
+ul {
     list-style-type: none;
     float: right;
-    
+}
+
+li {
+	display: inline-block;
+	margin: 30px;
 }
 
 #about a {
