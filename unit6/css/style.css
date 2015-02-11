@@ -89,10 +89,8 @@ li {
 
 #about a {
 	text-decoration: none;
+	text-align: center;
 	color: black;
-}
-
-#about p {
 	float: right;
 }
 
