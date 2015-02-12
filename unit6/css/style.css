@@ -92,10 +92,8 @@ li {
 	margin-right: 2em;
 }
 
-#about a {
-	text-decoration: none;
-	text-align: center;
-	color: black;
+#about h1 {
+	text-align: center
 }
 
 #about img {
