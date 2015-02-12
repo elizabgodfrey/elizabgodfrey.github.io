@@ -77,15 +77,6 @@ figure h2 {
 	color: black
 }
 
-ul {
-    list-style-type: none;
-}
-
-li {
-	display: inline-block;
-	width: 25%;
-}
-
 #about {
 	margin-left: 2em;
 	margin-right: 2em;
@@ -98,10 +89,20 @@ li {
 #about img {
 	float: left;
 	width: 10em;
+	margin: 20em;
 }
 
 #contact h1 {
 	text-align: center
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+	display: inline-block;
+	width: 20%;
 }
 
 @media (max-width: 400px) {
