@@ -98,11 +98,8 @@ li {
 	color: black;
 }
 
-#about p {
-	float: right;
-}
-
 #about img {
+	float: left;
 	width: 10em;
 }
 
