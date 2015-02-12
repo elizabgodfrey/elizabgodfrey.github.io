@@ -17,12 +17,12 @@ body {
 
 h1 {
 	font-family: 'Kreon', serif;
-	font-size: 2em;
+	font-size: 1.5em;
 	text-decoration: none;
 }
 h2 {
 	font-family: 'Kreon', serif;
-	font-size: 1.5em;
+	font-size: 1em;
 }
 
 header img {
@@ -99,6 +99,10 @@ li {
 #about img {
 	float: left;
 	width: 10em;
+}
+
+#contact h1 {
+	text-align: center
 }
 
 @media (max-width: 400px) {
