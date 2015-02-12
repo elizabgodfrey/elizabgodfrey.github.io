@@ -107,10 +107,9 @@ ul {
 
 li {
 	display: inline-block;
-	width: 20%;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 800px) {
 	nav {
 		width: 100%;
 	}
