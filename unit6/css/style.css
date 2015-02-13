@@ -112,16 +112,19 @@ figure h2 {
 	padding: 1em;
 }
 
-#engagement img {
+#branding img {
 	float: left;
+	width: 33%;
 }
 
 #digital img {
 	float: right;
+	width: 33%;
 }
 
 #engagement img {
 	float: left;
+	width: 33%;
 }
 
 @media (max-width: 800px) {
