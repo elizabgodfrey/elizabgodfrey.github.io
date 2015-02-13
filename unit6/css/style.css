@@ -102,12 +102,12 @@ figure h2 {
 	text-align: center
 }
 
-ul {
+#contact ul {
     list-style-type: none;
     text-align: center;
 }
 
-li {
+#contact li {
 	display: inline-block;
 	padding: 1em;
 }
