@@ -149,12 +149,9 @@ figure h2 {
 	width: 33%;
 }
 
-@media (max-width: 800px) {
-	nav {
-		width: 100%;
-	}
+@media (max-width: 1200px) {
 	figure {
-		width: 100%;
+		width: 50%;
 	}
 }
 
