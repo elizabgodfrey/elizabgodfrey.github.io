@@ -90,12 +90,9 @@ figure h2 {
 	float: left;
 	display:block;
 	width: 10em;
-<<<<<<< HEAD
 	margin-right: 5em;
-=======
 	margin-left:2em;
->>>>>>> FETCH_HEAD
-}
+>
 
 #about p {
 	margin-top: 5em;
