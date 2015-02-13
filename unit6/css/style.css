@@ -114,7 +114,7 @@ figure h2 {
 }
 
 #branding {
-	margin: 10em auto;
+	margin: 10em auto 2em auto;
 	width: 60em;
 }
 
@@ -124,10 +124,6 @@ figure h2 {
 	margin-right: 2em;
 	width: 33%;
 }
- #branding h2 {
- 	float: right;
- 	display: inline-block;
- }
 
 #digital {
 	margin:0 auto;
@@ -145,11 +141,6 @@ figure h2 {
 	margin:0 auto;
 	width: 60em;
 }
-
-#engagement h2 {
- 	float: right;
- 	display: inline-block;
- }
 
 #engagement img {
 	float: left;
