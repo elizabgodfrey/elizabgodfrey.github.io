@@ -88,7 +88,7 @@ figure h2 {
 
 #about img {
 	float: left;
-	display:block;
+	display: block;
 	width: 10em;
 	margin-right: 2em;
 	margin-left:2em;
@@ -114,31 +114,34 @@ figure h2 {
 
 #branding {
 	margin:0 auto;
-	width:40em;
 }
 
 #branding img {
 	float: left;
+	display: block;
+	margin-right: 2em;
 	width: 33%;
 }
 
 #digital {
 	margin:0 auto;
-	width:40em;
 }
 
 #digital img {
 	float: right;
+	display: block;
+	margin-left: 2em;
 	width: 33%;
 }
 
 #engagement {
 	margin:0 auto;
-	width:40em;
 }
 
 #engagement img {
 	float: left;
+	display: block;
+	margin-right: 2em;
 	width: 33%;
 }
 
