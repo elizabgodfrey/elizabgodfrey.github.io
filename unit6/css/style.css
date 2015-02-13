@@ -55,6 +55,10 @@ a:hover {
 	background-color: #aaaaaa;
 }
 
+a.logo:hover {
+	background-color: #ffffff;
+}
+
 section {
 	margin: 1em;
 }
