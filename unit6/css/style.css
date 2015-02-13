@@ -157,5 +157,11 @@ figure h2 {
 	margin: 2em ;
 	width: 50em;
 }
+@media (max-width: 1050px) {
+	#branding, #digital, #engagement {
+	margin: 2em ;
+	width: 100%;
+}
+
 
 
