@@ -112,6 +112,18 @@ figure h2 {
 	padding: 1em;
 }
 
+#engagement img {
+	float: left;
+}
+
+#digital img {
+	float: right;
+}
+
+#engagement img {
+	float: left;
+}
+
 @media (max-width: 800px) {
 	nav {
 		width: 100%;
