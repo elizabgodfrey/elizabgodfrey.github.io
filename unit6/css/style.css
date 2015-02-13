@@ -112,14 +112,29 @@ figure h2 {
 	padding: 1em;
 }
 
+#branding {
+	margin:0 auto;
+	width:40em;
+}
+
 #branding img {
 	float: left;
 	width: 33%;
 }
 
+#digital {
+	margin:0 auto;
+	width:40em;
+}
+
 #digital img {
 	float: right;
 	width: 33%;
+}
+
+#engagement {
+	margin:0 auto;
+	width:40em;
 }
 
 #engagement img {
