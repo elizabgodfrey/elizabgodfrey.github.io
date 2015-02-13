@@ -89,7 +89,7 @@ figure h2 {
 #about img {
 	float: left;
 	width: 10em;
-	margin: 5em;
+	margin-right: 5em;
 }
 
 #about p {
