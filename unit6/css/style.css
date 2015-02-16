@@ -119,49 +119,49 @@ figure h2 {
 
 #branding {
 	margin: 5em auto 2em auto;
-	width: 60em;
+	padding: 5em;
 }
 
 #branding img {
 	float: left;
 	display: block;
 	margin-right: 2em;
-	width: 33%;
+	max-width: 20em;
 }
 
 #digital {
 	margin:0 auto;
-	width: 60em;
+	padding: 5em;
 }
 
 #digital img {
 	float: right;
 	display: block;
 	margin-left: 2em;
-	width: 33%;
+	max-width: 20em;
 }
 
 #engagement {
 	margin:0 auto;
-	width: 60em;
+	padding: 5em;
 }
 
 #engagement img {
 	float: left;
 	display: block;
 	margin-right: 2em;
-	width: 33%;
+	max-width: 20em;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 800px) {
 	figure {
 		width: 50%;
 	}
 	#branding, #digital, #engagement {
-	margin: 2em ;
+	margin: 2em;
 	width: 50em;
 }
-@media (max-width: 1050px) {
+@media (max-width: 450px) {
 	#branding, #digital, #engagement {
 	margin: 2em ;
 	width: 100%;
