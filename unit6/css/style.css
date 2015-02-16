@@ -196,7 +196,8 @@ figure h2 {
 
 	nav a {
 		display: block;
-		text-align: left;
+		text-align: center;
+		margin-top: 0;
 	}
 	
 }
