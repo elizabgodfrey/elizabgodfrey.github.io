@@ -191,6 +191,7 @@ figure h2 {
 
 	#about img {
 		float: none;
+		margin: auto;
 	}
 
 	#contact li {
@@ -198,11 +199,17 @@ figure h2 {
 		text-align: center;
 	}
 
+	figure {
+		width: 100%;
+	}
+
 	nav a {
 		display: block;
 		text-align: center;
 	}
-	
+	#work {
+		padding: 1em;
+	}
 }
 
 
