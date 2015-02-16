@@ -162,7 +162,7 @@ figure h2 {
 		width: 100%;
 	}
 	#branding img, #digital img, #engagement img {
-		width: 100%;
+		max-width: 100%;
 		float: none;
 		margin: auto;
 		padding: 1em;
