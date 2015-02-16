@@ -170,7 +170,7 @@ figure h2 {
 	#branding img, #digital img, #engagement img {
 		max-width: 100%;
 		float: none;
-		margin: auto;
+		margin: 0 auto;
 		padding: 1em;
 	}
 }
@@ -192,6 +192,7 @@ figure h2 {
 	#about img {
 		float: none;
 		margin: auto;
+		padding-bottom: 1em;
 	}
 
 	#contact li {
