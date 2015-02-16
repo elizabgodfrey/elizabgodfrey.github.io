@@ -172,6 +172,7 @@ figure h2 {
 @media (max-width: 645px) {
 	nav {
 		margin-top: 1em;
+		float: none;
 	}
 
 	nav a {
