@@ -210,6 +210,9 @@ figure h2 {
 	}
 	#work {
 		padding: 1em;
+	}
+
+	#work h1 {
 		text-align: left;
 	}
 }
