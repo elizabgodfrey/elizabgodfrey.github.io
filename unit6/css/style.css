@@ -94,7 +94,7 @@ figure h2 {
 #about img {
 	float: left;
 	display: block;
-	width: 10em;
+	max-width: 10em;
 	margin-right: 2em;
 	margin-left:2em;
 }
@@ -165,7 +165,7 @@ figure h2 {
 	}
 	
 	#contact li {
-		display: list-item;
+		display: ;
 		text-align: left;
 	}
 }
