@@ -133,6 +133,7 @@ figure h2 {
 #digital {
 	margin:0 auto;
 	padding: 1em;
+	max-width: 80%;
 }
 
 #digital img {
@@ -145,6 +146,7 @@ figure h2 {
 #engagement {
 	margin:0 auto;
 	padding: 1em;
+	max-width: 80%;
 }
 
 #engagement img {
