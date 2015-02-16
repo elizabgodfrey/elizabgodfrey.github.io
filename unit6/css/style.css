@@ -157,10 +157,14 @@ figure h2 {
 	max-width: 20em;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1000px) {
 	figure {
-		width: 100%;
+		width: 75%;
 	}
+}
+
+
+@media (max-width: 800px) {
 	#branding img, #digital img, #engagement img {
 		max-width: 100%;
 		float: none;
