@@ -163,15 +163,19 @@ figure h2 {
 	}
 	#branding img, #digital img, #engagement img {
 		width: 100%;
-		clear: both;
+		float: none;
 	}
 }
 
-@media (max-width: 450px) {
+@media (max-width: 500px) {
 
 	#contact li {
 		display: block;
 		text-align: left;
+	}
+
+	nav {
+		margin-top: 0;
 	}
 
 	nav a {
