@@ -189,9 +189,13 @@ figure h2 {
 
 @media (max-width: 500px) {
 
+	#about img {
+		float: none;
+	}
+
 	#contact li {
 		display: block;
-		text-align: left;
+		text-align: center;
 	}
 
 	nav a {
