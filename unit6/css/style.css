@@ -199,6 +199,10 @@ figure h2 {
 		text-align: center;
 	}
 
+	#branding img, #digital img, #engagement img {
+		width: 100%;
+	}
+
 	#contact li {
 		display: block;
 		text-align: center;
