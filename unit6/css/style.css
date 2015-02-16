@@ -197,7 +197,7 @@ figure h2 {
 
 	#contact li {
 		display: block;
-		text-align: center;
+		text-align: left;
 	}
 
 	figure {
@@ -206,10 +206,11 @@ figure h2 {
 
 	nav a {
 		display: block;
-		text-align: center;
+		text-align: left;
 	}
 	#work {
 		padding: 1em;
+		text-align: left;
 	}
 }
 
