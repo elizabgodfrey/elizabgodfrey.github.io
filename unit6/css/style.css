@@ -166,7 +166,7 @@ figure h2 {
 	}
 	
 	#contact li {
-		display: ;
+		display: block;
 		text-align: left;
 	}
 }
