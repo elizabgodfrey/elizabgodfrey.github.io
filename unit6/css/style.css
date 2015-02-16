@@ -165,7 +165,7 @@ figure h2 {
 	}
 	
 	#contact li {
-		display: inline;
+		display: block;
 		text-align: left;
 	}
 }
