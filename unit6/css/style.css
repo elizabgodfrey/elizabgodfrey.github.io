@@ -159,6 +159,7 @@ figure h2 {
 
 @media (max-width: 1000px) {
 	figure {
+		float: none;
 		width: 75%;
 		padding: 1em;
 		margin: auto;
