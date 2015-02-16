@@ -195,6 +195,10 @@ figure h2 {
 		padding-bottom: 1em;
 	}
 
+	#about h1 {
+		text-align: center;
+	}
+
 	#contact li {
 		display: block;
 		text-align: center;
