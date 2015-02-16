@@ -160,14 +160,16 @@ figure h2 {
 	figure {
 		width: 50%;
 	}
-	#branding, #digital, #engagement {
-	margin: 2em;
-	width: 50em;
-}
-@media (max-width: 450px) {
-	#branding, #digital, #engagement {
-	margin: 2em ;
+	#branding img, #digital img, #engagement img {
 	width: 100%;
+	}
+	#contact li {
+		text-align: left;
+	}
+}
+
+@media (max-width: 450px) {
+	
 }
 
 
