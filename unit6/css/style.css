@@ -27,7 +27,7 @@ h2 {
 }
 
 header img {
-	width: 11em;
+	max-width: 11em;
 }
 
 hr {
