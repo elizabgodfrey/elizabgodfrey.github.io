@@ -84,7 +84,8 @@ figure h2 {
 
 #about {
 	margin:0 auto;
-	width:40em;
+	max-width:40em;
+	padding: 1em;
 }
 
 #about h1 {
