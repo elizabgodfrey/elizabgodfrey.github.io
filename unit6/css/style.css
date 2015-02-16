@@ -159,19 +159,25 @@ figure h2 {
 
 @media (max-width: 800px) {
 	figure {
-		width: 50%;
+		width: 100%;
 	}
 	#branding img {
 		width: 100%;
-	}
-	
-	#contact li {
-		display: block;
-		text-align: left;
+		clear: both;
 	}
 }
 
 @media (max-width: 450px) {
+
+	#contact li {
+		display: block;
+		text-align: left;
+	}
+
+	nav a {
+		display: block;
+		text-align: left;
+	}
 	
 }
 
