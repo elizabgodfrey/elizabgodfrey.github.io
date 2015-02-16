@@ -183,7 +183,8 @@ figure h2 {
 	}
 
 	nav a {
-		margin-top: 0;
+		margin: 0;
+		padding: 1em;
 	}
 }
 
@@ -197,7 +198,6 @@ figure h2 {
 	nav a {
 		display: block;
 		text-align: center;
-		margin-top: 0;
 	}
 	
 }
