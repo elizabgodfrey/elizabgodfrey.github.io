@@ -169,6 +169,16 @@ figure h2 {
 	}
 }
 
+@media (max-width: 645px) {
+	nav {
+		margin-top: 1em;
+	}
+
+	nav a {
+		margin-top: 0;
+	}
+}
+
 @media (max-width: 500px) {
 
 	#contact li {
