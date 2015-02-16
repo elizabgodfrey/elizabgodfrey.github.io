@@ -160,10 +160,12 @@ figure h2 {
 	figure {
 		width: 50%;
 	}
-	#branding img, #digital img, #engagement img {
-	width: 100%;
+	#branding img {
+		width: 100%;
 	}
+	
 	#contact li {
+		display: inline;
 		text-align: left;
 	}
 }
