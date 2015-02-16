@@ -161,7 +161,7 @@ figure h2 {
 	figure {
 		width: 100%;
 	}
-	#branding img {
+	#branding img, #digital img, #engagement img {
 		width: 100%;
 		clear: both;
 	}
