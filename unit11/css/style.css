@@ -1,0 +1,225 @@
+* { margin:0; padding:0; box-sizing:border-box; }
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	text-decoration: none;
+	color: black
+}
+
+.clearfix:after { 
+   content: "."; 
+   visibility: hidden; 
+   display: block; 
+   height: 0; 
+   clear: both;
+}
+
+h1 {
+	font-family: 'Kreon', serif;
+	font-size: 1.8em;
+	text-decoration: none;
+	text-align: center;
+}
+h2 {
+	font-family: 'Kreon', serif;
+	font-size: 1.5em;
+}
+
+header img {
+	max-width: 11em;
+}
+
+hr {
+	border-color: #fd6e6e;
+	clear: both;
+	margin-left: 33.33%;
+	margin-top: 3em;
+	margin-bottom: 3em;
+	width: 33.33%;
+}
+
+nav {
+	font-family: 'Kreon', serif;
+	font-size: 1em;
+	float: right;
+	margin-top: 2.5em;
+}
+nav a {
+	text-decoration: none;
+	color: black;
+	display: inline-block;
+	margin: 1.5em;
+}
+a:hover {
+	background-color: #aaaaaa;
+}
+
+a.logo:hover {
+	background-color: #ffffff;
+}
+
+section {
+	margin: 1em;
+}
+
+section a {
+	text-decoration: none;
+	color: black
+}
+
+figure {
+	width: 33.33%;
+	float: left;
+}
+figure img {
+	width: 100%;
+	padding: 1em;
+}
+figure h2 {
+	text-align: center;
+	text-decoration: none;
+	color: black
+}
+
+#about {
+	margin:0 auto;
+	max-width:40em;
+	padding: 1em;
+}
+
+#about h1 {
+	text-align: left;
+}
+
+#about img {
+	float: left;
+	display: block;
+	max-width: 10em;
+	margin-right: 2em;
+}
+
+#about p {
+	margin-top: 1em;
+}
+
+#contact h1 {
+	text-align: center
+}
+
+#contact ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+#contact li {
+	display: inline-block;
+	padding: 1em;
+}
+
+#branding {
+	margin: 2em auto;
+	padding: 1em;
+	max-width: 80%;
+}
+
+#branding img {
+	float: left;
+	display: block;
+	margin-right: 2em;
+	max-width: 20em;
+}
+
+#digital {
+	margin:0 auto;
+	padding: 1em;
+	max-width: 80%;
+}
+
+#digital img {
+	float: right;
+	display: block;
+	margin-left: 2em;
+	max-width: 20em;
+}
+
+#engagement {
+	margin:0 auto;
+	padding: 1em;
+	max-width: 80%;
+}
+
+#engagement img {
+	float: left;
+	display: block;
+	margin-right: 2em;
+	max-width: 20em;
+}
+
+@media (max-width: 1000px) {
+	figure {
+		float: none;
+		width: 75%;
+		padding: 1em;
+		margin: auto;
+	}
+}
+
+
+@media (max-width: 800px) {
+	#branding img, #digital img, #engagement img {
+		max-width: 100%;
+		float: none;
+		margin: 0 auto;
+		padding: 1em;
+	}
+}
+
+@media (max-width: 647px) {
+	nav {
+		margin-top: 0;
+		float: none;
+	}
+
+	nav a {
+		margin: 0;
+		padding: .5em;
+	}
+}
+
+@media (max-width: 500px) {
+
+	#about img {
+		float: none;
+		margin: auto;
+		padding-bottom: 1em;
+	}
+
+	#about h1 {
+		text-align: center;
+	}
+
+	#branding img, #digital img, #engagement img {
+		width: 100%;
+	}
+
+	#contact li {
+		display: block;
+		text-align: center;
+	}
+
+	figure {
+		width: 100%;
+	}
+
+	nav a {
+		display: block;
+		text-align: center;
+	}
+	#work {
+		padding: 1em;
+	}
+}
+
+
+
